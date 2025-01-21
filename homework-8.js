@@ -20,6 +20,7 @@ console.log(capitalizeStrings(words));
 
 /*Напишіть функцію findCommonElements, яка приймає на вхід два масиви і повертає новий масив, що містить елементи, які є в обох вихідних масивах.*/
 
+
 const array11 = [1, 2, 3, 4, 5, 1];
 const array22 = [3, 4, 5, 6, 7];
 
