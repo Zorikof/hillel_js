@@ -28,7 +28,6 @@ function groupNotifications(notifications) {
         if (!result[source]) {
             result[source] = [];
         }
-
         result[source].push({ text, date });
     }
     return result;
